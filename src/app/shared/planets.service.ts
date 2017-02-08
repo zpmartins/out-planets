@@ -19,6 +19,5 @@ const PLANETSDATA: Planets[] = [
   { position: 4, name: 'Mars', distanceFromSun: 228, description: '686 earth days to orbit the sun' },
   { position: 5, name: 'Jupiter', distanceFromSun: 778, description: '12 earth years to orbit the sun' },
   { position: 6, name: 'Saturn', distanceFromSun: 886, description: '29 earth years to orbit the sun' },
-  { position: 7, name: 'Uranus', distanceFromSun: 1800, description: '84 earth years to orbit the sun' },
-  { position: 8, name: 'Neptune', distanceFromSun: 2800, description: '165 earth years to orbit the sun' }
+  { position: 7, name: 'Neptune', distanceFromSun: 2800, description: '165 earth years to orbit the sun' }
 ];
